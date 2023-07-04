@@ -19,8 +19,9 @@ module.exports = {
   // social usernames (optional)
   twitter: null,
   github: 'catsukii',
-  wechatPublicName: 'ccatsuki',
-  wechatPublicURL: null,
+  wechatPublicName: null,
+  xiaohongshu: 'PUPUROOM',
+  instagram: 'cccatsuki',
   notionPublic: null,
 
   // default notion icon and cover images for site-wide consistency (optional)
